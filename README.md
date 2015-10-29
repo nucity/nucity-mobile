@@ -9,7 +9,7 @@ $ ionic state reset
 $ bower install
 ```
 
-### testing on browser
+### run
 ```bash
 $ ionic serve
 ```
