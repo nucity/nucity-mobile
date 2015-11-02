@@ -4,3 +4,14 @@ bower_components/
 
 build/
 dist/
+
+lib/
+
+.tmp
+.sass-cache
+platforms
+plugins
+*.swp
+*.swo
+*.log
+*.DS_Store
